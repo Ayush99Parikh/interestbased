@@ -11,18 +11,19 @@
 .navbar navbar-expand-lg navbar-light bg-light{
   background-color:#0C84D2;
 }
-.h11{
+.h1{
+  margin-right: 0;
   font-weight: bold;
   Color:white;
   padding: 30px;
 }
 .baa{
-  margin-left: 170px;
+  margin-left:10px;
   margin-top: 50px;
 
 }
 .ba{
-  margin-left: 50px;
+  margin-right:0;
   margin-top: 50px;
 }
 .navbar-brand{
