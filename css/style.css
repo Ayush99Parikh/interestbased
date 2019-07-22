@@ -57,6 +57,9 @@ p{
   color: #0C84D2;
 }
 @media (max-width: 1028px){
+  .h11{
+      text-align: center;
+  }
   .interest{
     position: static;
     transform: rotate(0);
@@ -66,9 +69,13 @@ p{
   }
   .ba{
     padding: 3% 15%;
+    margin-left: 40px;
+      text-align: center;
   }
   .baa{
     padding: 3% 15%;
+     text-align: center;
+     margin-left: 40px;
   }
 }
 #pricing{
